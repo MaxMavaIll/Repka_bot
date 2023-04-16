@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graceful-album-325217",
+  "private_key_id": "bb83dfd5145608462db3458e1b44f20552f5eeff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPnWQhmaVuOwC/\n+VSrQMTmifKbPcaz2ULy8SI8vuWdItEXj6fbz4l1cnR22lhDx6oACnE8L+oP6iyv\niCEsDbu7qRwmHwRXZAzDOZ028rT6sM1jsEBkOfB1kTaeL5lSn84t067OyAdAOinc\nWRqQEcgRIAdHUdaAO9rnnDonI2mZa9gHUj8lsj6s5T57+pAu4yG2cd1RnY/dMLym\nmmOz4MEyp5w0sorLhBVLoVka3HZTOesoDJxFwxFHbB3fsC7499px/N2jSDMSaTT0\n2hgpniJxxapvpx95DETFioRC4QQkFL/ngPDSWeAmtS9a1KDRxRFK6MzyXjtOKEy/\nKftbjitFAgMBAAECggEAAdKF2UBpee43Z/EbSDd5dmAa95uqIFEb14pZqrPGiK0W\nCV4cy4/d5UbLsd6ea1Rt4t5bf1+hYuH6qYPFiG6E2PB8k+YlowLq1Px2yIXFIOpY\npU0++F+AgiASw6E1/pPMNs3gO3vThtbWGpeGo0NCDkQ91S48nNfXX27lyjuu+GjJ\nGtWT13BBxfGFYjfyUHWSq6Ap78C7gC2lWzpi/Tv5G+kFKJNMxNqp4uTPe2We/iT5\nascdNt+iZWyssRWgFHV/sjW0FLOp/3AL8WiH0c6tnW1euWBzlIlzCJrPddNwuj4u\nmVIF5y/fXehHURoWYPP3ObD4H6RsppnEW/qNl01SxwKBgQDHnd3M4mT4HsZlHqWz\n/KTvyQSnHyjFKBv3E8Vr9bHkiAlLh6F/OFbb13wzOUgIKO3iFzr/ezE9CXAeHHx1\nDEuRiui0xBwCHtUA+uAGz45bG1Ya7WDUise5LcEC232jdN5ZcjQUPyiVw+buksvt\nPN5ek+ew6xNuczun7RD/YUPLSwKBgQC4LhJlzsXL9SNQiwvOrjLm6IA+hGiJgfyL\nbmpSNaKWlYsN4WCZsk5UC/etgTICDNLDYgbRuc4QmBcWSqetuNADsewjEbO7SuNa\nicu4NvgQo3wnAg7cePBY9E5D9zZmaJMor1u0rgJYmNrFaPnuas9IJ7txCt5riXnI\nLi9H68e5rwKBgQDDkyaG4KFwgCZ9WGOdTsECtf67BspZMI0FrPdWaSjb8XS57a8L\nCFYBmsRzI4IxjHhVddE2EqsRVDfnKJ2/yEYZ2PFaenG+mhqzlRj9U0n0dXoNc9nV\nJAu+oNdkR0x3Y7+d/0iLNb47ze5qfKUUUPjFzT/JlOg65OfkBV8L924GtQKBgBG2\npKBT/aP7BJV3egA7sruQet0IYQFwlfhW+zTC4cs3wLLqDR9bDbt5ly2BsmyODSsr\nX1qGUzI3XmkPbwb/MkpYr0xEJJQLxMftXsFtz/fRsVwTD5jWrM7xWCGjQgEhZ53P\nF7PN1H3u3YOE8Byk+yCGabmagP+4rhS5lGSHYaMTAoGATLBIU5i5Ou1s8xp3oIkR\n2ucoRuWqRyK9LOoIwu+ssvGt/qFVdEKNCCPcs6ZkKIlH2WMiA8+vuXUNxOD965/I\naiDDsb8lu4Sdus1xkct3xZ+hCS0FmgMpqZ028N3gFwb5JLoVDZAdg7jF+F3B2GZJ\n0ena5GKIbRWQK5nylhLiJ9Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "accout@graceful-album-325217.iam.gserviceaccount.com",
+  "client_id": "112878409354790030332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accout%40graceful-album-325217.iam.gserviceaccount.com"
+}

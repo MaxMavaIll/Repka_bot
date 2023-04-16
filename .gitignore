@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+logging/
+data_base/people.db
+data_base/Repka.db
+config.py

@@ -1,0 +1,10 @@
+TOKEN_REPKA = ""
+TOKEN_TEST = ""
+
+blok = {}
+
+# id amdins
+admin = [344352634]
+
+#pass to admin
+password = "1234"
