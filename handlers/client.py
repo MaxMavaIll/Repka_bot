@@ -31,12 +31,12 @@ Name_key_add = dict() #dict
 # Room = dict()
 
 #ONE
-Sum_for_one_and_red = 90
+Sum_for_one_and_red = 100
 Sum_for_one_and_blue = 130
 Sum_for_one_and_black = 140
 
 #GROUP
-Sum_for_group_and_red = 100
+Sum_for_group_and_red = 120
 Sum_for_group_and_blue = 150
 Sum_for_group_and_black = 160
 
@@ -83,11 +83,11 @@ async def Start(message : types.Message):
     
     await message.answer("Ціни(за годину):\n" +
                         "$$$$$-САМ-$$$$$\n"+
-                        "Червона -> 90\n" +
+                        "Червона -> 100\n" +
                         "Синя -> 130\n"+
                         "Чорна -> 140\n\n"
                         "$$$$$-Група-$$$$$\n" +
-                        "Червона -> 100\n" +
+                        "Червона -> 120\n" +
                         "Синя -> 150\n"+
                         "Чорна -> 160\n\n"+
                         "^***Нічний час***^\n" +
